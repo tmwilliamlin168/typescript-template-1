@@ -1,0 +1,16 @@
+{
+  "name": "typescript-template-1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmwilliamlin168/typescript-template-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmwilliamlin168/typescript-template-1/issues"
+  },
+  "homepage": "https://github.com/tmwilliamlin168/typescript-template-1#readme"
+}
